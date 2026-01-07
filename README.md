@@ -45,7 +45,18 @@ I am currently strictly focused on **Computer Science**, balancing academic cour
 * **Frontend Basics:** Experience in structuring and styling responsive web pages.
 * **Scripting:** Currently learning syntax and DOM manipulation.
 
-### 📡 Featured Project: IoT Door Access
+### 🚀 Featured Projects
+
+#### 🃏 Poker WinForms
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/FedeBertos/PokerWinForms)
+[![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/FedeBertos/PokerWinForms)
+[![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/FedeBertos/PokerWinForms)
+
+* **Description:** A graphical Poker game application developed using C# and the .NET framework.
+* **Key Skills:** Implements **Object-Oriented Programming** principles to manage game logic (decks, hands, player states) with an event-driven **Windows Forms** GUI.
+* [View Repository](https://github.com/FedeBertos/PokerWinForms)
+
+#### 📡 IoT Door Access System
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
