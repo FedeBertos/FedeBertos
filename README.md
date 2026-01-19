@@ -48,9 +48,9 @@ I am currently strictly focused on **Computer Science**, balancing academic cour
 ### 🚀 Featured Projects
 
 #### 🃏 Poker WinForms
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/FedeBertos/PokerWinForms)
-[![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/FedeBertos/PokerWinForms)
-[![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/FedeBertos/PokerWinForms)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/)
+[![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
 
 * **Description:** A graphical Poker game application developed using C# and the .NET framework.
 * **Key Skills:** Implements **Object-Oriented Programming** principles to manage game logic (decks, hands, player states) with an event-driven **Windows Forms** GUI.
