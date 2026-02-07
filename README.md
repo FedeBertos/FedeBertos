@@ -12,7 +12,7 @@ I am currently strictly focused on **Computer Science**, balancing academic cour
 [![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/)
 
 * **Fundamentals (C):** Acquired deep understanding of structured programming and pointers.
-* **OOP & Memory (C++):** Focusing on classes, operator overloading, and dynamic memory allocation.
+* **OOP & Memory (C++):** Focusing on class inheritance, polymorphism, static members, and dynamic memory allocation.
 * **Desktop Dev (C#/.NET):** Applied OOP concepts to develop Console and WinForms (GUI) applications.
 
 ### 🐧 Systems, Scripting & Virtualization
@@ -33,7 +33,7 @@ I am currently strictly focused on **Computer Science**, balancing academic cour
 [![Plex](https://img.shields.io/badge/Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white)](https://www.plex.tv/)
 
 * **Networking:** Set up a Tailnet for remote access to my NAS and HomeLab services.
-* **DNS:** Configured AdGuard Home as a network-wide DNS server.
+* **DNS:** Configured AdGuard Home paired with Unbound for recursive DNS resolution.
 * **Infrastructure:** Simulation of complex networks using Cisco Packet Tracer.
 * **Media:** Experience configuring Jellyfin and Plex servers on NAS.
 
