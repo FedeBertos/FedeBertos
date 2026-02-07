@@ -59,11 +59,15 @@ I am currently strictly focused on **Computer Science**, balancing academic cour
 #### 📡 IoT Door Access System
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
 
-* **Description:** Developed a system simulating a corporate environment entry.
-* **Architecture:** Arduino (Sensors) ➡ Raspberry Pi ➡ Python Script ➡ SQL Database ➡ Web Dashboard (PHP).
+* **Description:** A prototype access control system simulating a secure corporate entry environment, bridging hardware sensors with a web-based management interface.
+* **Architecture:**
+    * **Hardware Layer:** Arduino manages input sensors (RFID/Keypad) and actuators, communicating via **Serial (UART)** with the central controller.
+    * **Logic Layer:** A **Python** script on Raspberry Pi processes serial data, validates credentials against the database, and controls access permission.
+    * **Data & Web:** A **MySQL** database logs access attempts (timestamps, user IDs), accessible via a **PHP** dashboard for real-time monitoring and user management.
 
 ### 🛠 Tools & Design
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
