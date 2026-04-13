@@ -48,6 +48,19 @@ I am currently strictly focused on **Computer Science**, balancing academic cour
 
 ### 🚀 Featured Projects
 
+#### ☁️ On-Premise HA Kubernetes Cluster
+[![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![HAProxy](https://img.shields.io/badge/HAProxy-336699?style=for-the-badge&logo=haproxy&logoColor=white)](https://www.haproxy.org/)
+[![Apache APISIX](https://img.shields.io/badge/Apache%20APISIX-E8433E?style=for-the-badge&logo=apache&logoColor=white)](https://apisix.apache.org/)
+[![Headlamp](https://img.shields.io/badge/Headlamp-0052CC?style=for-the-badge&logo=kubernetes&logoColor=white)](https://headlamp.dev/)
+[![Velero](https://img.shields.io/badge/Velero-00ADD8?style=for-the-badge&logo=velero&logoColor=white)](https://velero.io/)
+
+* **Description:** Designed and deployed a Multi-Master High Availability (HA) Kubernetes cluster from the ground up.
+* **Infrastructure & Networking:** Provisioned Ubuntu Server on bare-metal Apple hardware. Implemented an HA architecture utilizing Keepalived for Virtual IP failover and HAProxy for load balancing internal cluster API requests.
+* **Gateway & Security:** Deployed Apache APISIX as the API Gateway and Ingress Controller. Automated the issuance of TLS certificates via cert-manager and Let's Encrypt. Integrated Google SSO (OIDC) to secure access to the Headlamp management dashboard for developers.
+* **Storage & Disaster Recovery:** Configured a Raspberry Pi as a RAID 1 NFS server to provide persistent storage for cluster workloads, including Grafana, ETCD, and macOS Time Machine backups. Ensured cluster resilience by scheduling automated backups to Google Cloud Storage using Velero.
+
 #### 🃏 [Poker WinForms](https://github.com/FedeBertos/PokerWinForms)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/)
