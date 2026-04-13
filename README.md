@@ -17,11 +17,12 @@ I am currently strictly focused on **Computer Science**, balancing academic cour
 
 ### 🐧 Systems, Scripting & Virtualization
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![Alpine](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)](https://alpinelinux.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-* **Daily Driver:** My main OS is **Arch Linux**. I also have experience with **Ubuntu**, **Debian**, and **Fedora**.
+* **Operating Systems:** My main OS is **Arch Linux**, but I also rely on **Alpine Linux** for lightweight server deployments. I have further experience with **Ubuntu**, **Debian**, and **Fedora**.
 * **Virtualization:** I use it to run Windows VMs on Linux and containerize services with Docker.
 * **Automation:** I use **Bash** for system maintenance and **Python** for versatility and glue-code scripting.
 
